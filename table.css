@@ -1,0 +1,14 @@
+body{
+    background-image: -webkit-image-set();
+    background-color: bisque;
+
+}
+h1{
+    text-align: center;
+}
+li{
+    font-size: larger;
+    font-display: bold;
+    font-weight: 300;
+    
+}
